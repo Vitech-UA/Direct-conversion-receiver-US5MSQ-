@@ -4,5 +4,8 @@
 Сайт автора: https://us5msq.com.ua/prostoj-trexdiapazonnyj-ppp/  
 Форум: https://us5msq.com.ua/forum/viewtopic.php?f=10&t=8&sid=b89978508425fa2bb280c19f9464607e  
 Зовнішній вигляд:  
-![photo_2022-11-06_11-30-12](https://user-images.githubusercontent.com/74230330/200163674-537ed979-00ae-46f6-b41d-57f344d1e901.jpg)
+![front](https://user-images.githubusercontent.com/74230330/202873625-ac82623d-eff7-41b8-9489-a549bc7399b6.jpg)
+Начинка:  
+![1](https://user-images.githubusercontent.com/74230330/202873628-ae42be80-0702-44f1-8828-d0f47863aa6b.jpg)
+![2](https://user-images.githubusercontent.com/74230330/202873630-e44e8a13-1980-474e-beb1-c841c0cfee1c.jpg)
 
